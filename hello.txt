@@ -1,4 +1,4 @@
-Hello Ann;Hello git!!
+Hello Ann;Hello git!!直接修改文件
 Hello Ann;Hello git!!
 Hello Ann;Hello git!!
 Hello Ann;Hello git!!
