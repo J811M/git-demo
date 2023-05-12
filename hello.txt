@@ -1,7 +1,6 @@
 Hello Ann;Hello git!!直接修改文件
 Hello Ann;Hello git!!
-Hello Ann;Hello git!!
-Hello Ann;Hello git!!
+Hello Ann;Hello git!!在hot-fix分支上修改hello.txt文件
 Hello Ann;Hello git!!
 Hello Ann;Hello git!!
 Hello Ann;Hello git!!
